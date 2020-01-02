@@ -1,0 +1,4 @@
+These are prebuilt Linux kernel binaries, along with dtbo, dtb, and modules necessary for b4s4 to function.
+
+
+Clone this repository into $TOP/device/google/bonito-kernel, and make sure your device tree hasn't removed kernel module/prebuilt dtbo/kernel/dt flags.
